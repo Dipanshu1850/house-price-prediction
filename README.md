@@ -188,9 +188,3 @@ Tests cover preprocessing correctness, feature engineering logic, metric computa
 2. Update or clear `ORDINAL_MAPS` to match your ordinal columns
 3. Modify `FeatureEngineer` in `src/model.py` to add domain-specific features
 4. Set `TARGET` to your target column name
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
